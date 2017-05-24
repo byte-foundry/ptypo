@@ -1,0 +1,21 @@
+{
+  "name": "ptypo-lib",
+  "version": "1.0.0",
+  "description": "Prototypo parametric font library",
+  "main": "ptypo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parametric",
+    "font",
+    "typeface",
+    "prototypo"
+  ],
+  "author": "byte-foundry",
+  "license": "MIT",
+  "dependencies": {
+    "prototypo-canvas": "^1.16.9",
+    "prototypo.js": "^1.16.5"
+  }
+}
